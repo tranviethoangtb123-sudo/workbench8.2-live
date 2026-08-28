@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T19:47:27.113Z",
+  "updated": "2026-08-28T21:14:57.455Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -58,6 +58,11 @@
         "date": "Fri, 28 Aug 2026 19:21:57 GMT"
       },
       {
+        "title": "Six people injured after sign falls at Christian festival",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 28 Aug 2026 20:57:06 GMT"
+      },
+      {
         "title": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
         "link": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 28 Aug 2026 18:11:13 GMT"
@@ -73,19 +78,14 @@
         "date": "Fri, 28 Aug 2026 17:47:00 GMT"
       },
       {
-        "title": "Paul Heaton scores first number one album as Dolly Parton's 9 to 5 finally reaches top 40",
-        "link": "https://www.bbc.co.uk/news/articles/c8d3ml106j8o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 28 Aug 2026 16:48:36 GMT"
-      },
-      {
-        "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
-        "link": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
+        "title": "Sarfaraz denies knowing about Pakistan threat to end tour",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 28 Aug 2026 19:38:35 GMT"
       },
       {
-        "title": "Four plead guilty to arson attack on Jewish community ambulances",
-        "link": "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 28 Aug 2026 18:41:35 GMT"
+        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+        "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 28 Aug 2026 21:01:39 GMT"
       }
     ],
     "The New York Times": [
@@ -115,19 +115,19 @@
         "date": "Fri, 28 Aug 2026 19:43:42 +0000"
       },
       {
-        "title": "Why Many Iranians Are Losing Hope After Six Months of War",
-        "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
-        "date": "Fri, 28 Aug 2026 18:14:28 +0000"
+        "title": "How Key Oil Stockpiles Dwindled During the War in Iran",
+        "link": "https://www.nytimes.com/video/us/100000011093055/how-key-oil-stockpiles-dwindled-during-the-war-in-iran.html",
+        "date": "Fri, 28 Aug 2026 14:15:42 +0000"
+      },
+      {
+        "title": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.",
+        "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
+        "date": "Fri, 28 Aug 2026 18:36:31 +0000"
       },
       {
         "title": "Social Media and the Myth of the Big Tobacco Moment",
         "link": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
         "date": "Fri, 28 Aug 2026 18:52:04 +0000"
-      },
-      {
-        "title": "Why Countries Are Pushing Social Media Bans Despite Their Flaws",
-        "link": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
-        "date": "Fri, 28 Aug 2026 13:46:28 +0000"
       }
     ],
     "The Guardian": [
@@ -174,6 +174,11 @@
     ],
     "Al Jazeera": [
       {
+        "title": "Timeline: Life of Ratko Mladic, general turned ‘Butcher of Bosnia’",
+        "link": "https://www.aljazeera.com/news/2026/8/28/timeline-life-of-ratko-mladic-general-turned-butcher-of-bosnia?traffic_source=rss",
+        "date": "Fri, 28 Aug 2026 19:58:41 +0000"
+      },
+      {
         "title": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
         "link": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss",
         "date": "Fri, 28 Aug 2026 19:26:15 +0000"
@@ -182,6 +187,11 @@
         "title": "President Donald Trump signs order creating US Space Academy",
         "link": "https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-order-creating-us-space-academy?traffic_source=rss",
         "date": "Fri, 28 Aug 2026 19:23:32 +0000"
+      },
+      {
+        "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+        "link": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
+        "date": "Fri, 28 Aug 2026 19:03:02 +0000"
       },
       {
         "title": "Police fire teargas at Kenyan traders protesting higher taxes on imports",
@@ -202,16 +212,6 @@
         "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
         "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
         "date": "Fri, 28 Aug 2026 17:47:17 +0000"
-      },
-      {
-        "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
-        "date": "Fri, 28 Aug 2026 17:36:56 +0000"
-      },
-      {
-        "title": "US judge denies injunction against Trump’s new birthright citizenship order",
-        "link": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
-        "date": "Fri, 28 Aug 2026 17:32:55 +0000"
       }
     ],
     "Financial Times": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+        "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+        "date": "Fri, 28 Aug 2026 19:44:11 +0000"
+      },
+      {
         "title": "Microsoft Teams Has Become a Haven for Scammers in China",
         "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
         "date": "Fri, 28 Aug 2026 18:23:17 +0000"
@@ -335,11 +340,6 @@
         "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
         "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
         "date": "Fri, 28 Aug 2026 10:56:22 +0000"
-      },
-      {
-        "title": "The Easiest Ways to Share Anything Between Android and iOS",
-        "link": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
-        "date": "Fri, 28 Aug 2026 10:45:00 +0000"
       }
     ],
     "The Verge": [
@@ -386,6 +386,11 @@
     ],
     "TechCrunch": [
       {
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "date": "Fri, 28 Aug 2026 20:24:11 +0000"
+      },
+      {
         "title": "An Anthropic researcher just gave us a peek at self-improving AI",
         "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
         "date": "Fri, 28 Aug 2026 19:30:38 +0000"
@@ -419,14 +424,34 @@
         "title": "Apple TV is raising its subscription prices again",
         "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
         "date": "Fri, 28 Aug 2026 14:36:48 +0000"
-      },
-      {
-        "title": "a16z creates a $1.1B &#8216;Machine Age&#8217; fund to &#8216;accelerate the physical buildout of AI&#8217;",
-        "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-        "date": "Fri, 28 Aug 2026 13:24:43 +0000"
       }
     ],
     "Hacker News": [
+      {
+        "title": "Stopping the smart TV from being used against you",
+        "link": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+        "date": "Fri, 28 Aug 2026 20:27:57 +0000"
+      },
+      {
+        "title": "Isitdoneyet.gg is a website I made to figure out if games are complete",
+        "link": "https://isitdoneyet.gg/",
+        "date": "Fri, 28 Aug 2026 19:30:46 +0000"
+      },
+      {
+        "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+        "link": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+        "date": "Fri, 28 Aug 2026 19:30:15 +0000"
+      },
+      {
+        "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "link": "https://github.com/sseshachala/conductai",
+        "date": "Fri, 28 Aug 2026 19:29:20 +0000"
+      },
+      {
+        "title": "Show HN: Sesame - a local-first, open-source password manager",
+        "link": "https://usesesame.app/",
+        "date": "Fri, 28 Aug 2026 19:14:14 +0000"
+      },
       {
         "title": "The Analytical AI Handbook",
         "link": "https://handbook.sutro.sh",
@@ -441,31 +466,6 @@
         "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
         "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
         "date": "Fri, 28 Aug 2026 17:00:06 +0000"
-      },
-      {
-        "title": "Just the rumour of a bug is enough to find an exploit these days",
-        "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-        "date": "Fri, 28 Aug 2026 15:58:46 +0000"
-      },
-      {
-        "title": "How Dactyl Works",
-        "link": "https://dactyl.dev/blog/how-dactyl-works/",
-        "date": "Fri, 28 Aug 2026 15:42:04 +0000"
-      },
-      {
-        "title": "EasyEffects can massively improve laptop speaker sound quality",
-        "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-        "date": "Fri, 28 Aug 2026 15:23:10 +0000"
-      },
-      {
-        "title": "Barrier lake continues to pose flood risk, China warns",
-        "link": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-        "date": "Fri, 28 Aug 2026 15:21:26 +0000"
-      },
-      {
-        "title": "GLM-5.3 is now open-weight",
-        "link": "https://huggingface.co/zai-org/GLM-5.3",
-        "date": "Fri, 28 Aug 2026 15:20:13 +0000"
       }
     ],
     "Reddit": [
