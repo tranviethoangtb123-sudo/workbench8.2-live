@@ -1,9 +1,39 @@
 {
-  "updated": "2026-11-09T12:37:19.950Z",
+  "updated": "2026-11-09T17:59:59.166Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年",
+        "link": "https://www.zaobao.com/news/china/story20261109-9971432",
+        "date": "Mon, 09 Nov 2026 14:41:27 GMT"
+      },
+      {
+        "title": "黄仁勋事件引中国舆论场炸锅 学者：不会是最后一起",
+        "link": "https://www.zaobao.com/news/china/story20261109-9971466",
+        "date": "Mon, 09 Nov 2026 14:34:07 GMT"
+      },
+      {
+        "title": "下午察：中共二十一大选举有新变化",
+        "link": "https://www.zaobao.com/news/china/story20261109-9970959",
+        "date": "Mon, 09 Nov 2026 13:50:47 GMT"
+      },
+      {
+        "title": "中国官媒：外资机构看好中国资产配置价值",
+        "link": "https://www.zaobao.com/news/china/story20261109-9971410",
+        "date": "Mon, 09 Nov 2026 13:20:03 GMT"
+      },
+      {
+        "title": "中国10月PPI涨幅创四年半新高 消费需求持续承压",
+        "link": "https://www.zaobao.com/news/china/story20261109-9970726",
+        "date": "Mon, 09 Nov 2026 13:13:30 GMT"
+      },
+      {
+        "title": "中国汽车出口10月增近七成 国内销量持续低迷",
+        "link": "https://www.zaobao.com/news/china/story20261109-9971270",
+        "date": "Mon, 09 Nov 2026 13:03:09 GMT"
+      },
       {
         "title": "2025年中国老人数量首次比孩子多 养老担子重于养小",
         "link": "https://www.zaobao.com/news/china/story20261109-9970722",
@@ -13,44 +43,39 @@
         "title": "熊猫外卖华人骑手澳洲遇害案 凶手被控谋杀罪",
         "link": "https://www.zaobao.com/news/china/story20261109-9970790",
         "date": "Mon, 09 Nov 2026 09:39:50 GMT"
-      },
-      {
-        "title": "中国男子东京干扰手机网络发诈骗短信 涉违《电波法》被控",
-        "link": "https://www.zaobao.com/news/china/story20261109-9970347",
-        "date": "Mon, 09 Nov 2026 09:02:35 GMT"
-      },
-      {
-        "title": "曾参与抗美援朝的中国篮球名宿马清盛逝世 享年95岁",
-        "link": "https://www.zaobao.com/news/china/story20261109-9969933",
-        "date": "Mon, 09 Nov 2026 09:02:00 GMT"
-      },
-      {
-        "title": "中国继续暂停对美实体不可靠实体清单与出口管制措施两个月",
-        "link": "https://www.zaobao.com/news/china/story20261109-9970508",
-        "date": "Mon, 09 Nov 2026 08:45:32 GMT"
-      },
-      {
-        "title": "解放军空军攻击-11隐身无人机细节画面公布",
-        "link": "https://www.zaobao.com/news/china/story20261109-9970469",
-        "date": "Mon, 09 Nov 2026 08:41:20 GMT"
-      },
-      {
-        "title": "习近平：中柬是铁杆朋友",
-        "link": "https://www.zaobao.com/news/china/story20261109-9970366",
-        "date": "Mon, 09 Nov 2026 08:22:37 GMT"
-      },
-      {
-        "title": "美持续促华履约采购农产品 大豆期货涨幅逾两周最大",
-        "link": "https://www.zaobao.com/news/china/story20261109-9970154",
-        "date": "Mon, 09 Nov 2026 07:42:13 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Inside the French drug gangs recruiting children to kill",
-        "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 06:00:26 GMT"
+        "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 17:31:08 GMT"
+      },
+      {
+        "title": "Watch: Moment judge sentences Brand in court",
+        "link": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 15:18:04 GMT"
+      },
+      {
+        "title": "France accuses Iran of supermarket fridge hacking",
+        "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 16:55:07 GMT"
+      },
+      {
+        "title": "Civil servant who secretly held five jobs found guilty of fraud",
+        "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 17:17:16 GMT"
+      },
+      {
+        "title": "Poundland unable to buy new stock as fears over collapse grow",
+        "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 16:46:40 GMT"
+      },
+      {
+        "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
+        "link": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 15:27:00 GMT"
       },
       {
         "title": "Krakow shooting suspect has died in hospital, police say",
@@ -58,51 +83,31 @@
         "date": "Mon, 09 Nov 2026 11:56:25 GMT"
       },
       {
-        "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 10:00:34 GMT"
-      },
-      {
-        "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 02:50:13 GMT"
-      },
-      {
-        "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-        "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 08:49:17 GMT"
-      },
-      {
-        "title": "Thick fog disrupts travel with further weather warning issued",
-        "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 12:11:32 GMT"
-      },
-      {
-        "title": "Government's EV targets expected to be reduced this week",
-        "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 12:06:22 GMT"
-      },
-      {
-        "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-        "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 09 Nov 2026 07:30:12 GMT"
+        "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+        "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 09 Nov 2026 16:59:46 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Is Jensen Huang too Powerful to Be Punished by Nvidia?",
+        "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+        "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+        "date": "Mon, 09 Nov 2026 16:47:08 +0000"
+      },
+      {
+        "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
         "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-        "date": "Mon, 09 Nov 2026 10:04:07 +0000"
+        "date": "Mon, 09 Nov 2026 13:54:04 +0000"
       },
       {
-        "title": "Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang",
+        "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
         "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
-        "date": "Mon, 09 Nov 2026 12:24:29 +0000"
+        "date": "Mon, 09 Nov 2026 16:24:05 +0000"
       },
       {
-        "title": "Nvidia C.E.O. Admits Relationship With Suspected Chinese Spy, and Stephen Miller Takes the Reins",
-        "link": "https://www.nytimes.com/2026/11/09/podcasts/the-headlines/nvidia-ceo-suspected-chinese-spy-stephen-miller-trump-chief-of-staff.html",
-        "date": "Mon, 09 Nov 2026 12:08:05 +0000"
+        "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+        "link": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+        "date": "Mon, 09 Nov 2026 12:33:37 +0000"
       },
       {
         "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
@@ -110,24 +115,19 @@
         "date": "Mon, 09 Nov 2026 12:04:29 +0000"
       },
       {
-        "title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
-        "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
+        "title": "On ‘60 Minutes,’ Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Elections",
+        "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
         "date": "Mon, 09 Nov 2026 03:16:26 +0000"
       },
       {
-        "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
-        "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-        "date": "Sun, 08 Nov 2026 23:49:53 +0000"
+        "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
+        "link": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
+        "date": "Mon, 09 Nov 2026 16:41:41 +0000"
       },
       {
-        "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-        "link": "https://www.nytimes.com/2026/11/09/us/politics/stephen-miller-white-house-chief-staff.html",
-        "date": "Mon, 09 Nov 2026 10:03:43 +0000"
-      },
-      {
-        "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
-        "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
-        "date": "Mon, 09 Nov 2026 00:43:21 +0000"
+        "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+        "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+        "date": "Mon, 09 Nov 2026 16:59:16 +0000"
       }
     ],
     "The Guardian": [
@@ -174,86 +174,86 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Partial collapse of Pakistan’s Tarbela dam causes flood water surge",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 12:16:20 +0000"
+        "title": "France accelerates minimum wage hike in bid to quell protest",
+        "link": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 17:46:28 +0000"
       },
       {
-        "title": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
-        "link": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 12:06:19 +0000"
+        "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 17:17:39 +0000"
       },
       {
-        "title": "Paraguay former president’s mansion raided in ongoing investigation",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 11:19:45 +0000"
+        "title": "Al Jazeera tries skateboarding at Youth Olympics",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 16:48:34 +0000"
       },
       {
-        "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-        "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 10:50:49 +0000"
+        "title": "France accuses Iran of cyberattack on supermarket fridges",
+        "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 16:33:33 +0000"
       },
       {
-        "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-        "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 10:49:02 +0000"
+        "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+        "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 16:18:28 +0000"
       },
       {
-        "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
-        "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 10:38:10 +0000"
+        "title": "Man uses excavator to destroy Chinese government building",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 16:15:04 +0000"
       },
       {
-        "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 10:35:53 +0000"
+        "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+        "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 16:00:10 +0000"
       },
       {
-        "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
-        "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-        "date": "Mon, 09 Nov 2026 10:08:45 +0000"
+        "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+        "link": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
+        "date": "Mon, 09 Nov 2026 15:55:27 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Nvidia shares slide as it probes alleged Chinese spy scandal",
+        "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+        "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+        "date": "Mon, 09 Nov 2026 15:35:45 GMT"
+      },
+      {
+        "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
         "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 09:15:56 GMT"
+        "date": "Mon, 09 Nov 2026 15:36:56 GMT"
       },
       {
-        "title": "Global stocks steady after AI rout",
+        "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+        "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+        "date": "Mon, 09 Nov 2026 17:02:52 GMT"
+      },
+      {
+        "title": "Trump, Putin and the short war illusion",
+        "link": "https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1",
+        "date": "Mon, 09 Nov 2026 12:24:59 GMT"
+      },
+      {
+        "title": "The UK Treasury needs to keep consumers front and centre",
+        "link": "https://www.ft.com/content/a27d67b9-7da0-438a-a9e7-c8567f123095?syn-25a6b1a6=1",
+        "date": "Mon, 09 Nov 2026 15:18:37 GMT"
+      },
+      {
+        "title": "US stocks rebound after AI rout",
         "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 12:04:10 GMT"
+        "date": "Mon, 09 Nov 2026 16:09:12 GMT"
       },
       {
-        "title": "Tech sell-off raises risks for SoftBank’s massive AI bet",
-        "link": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 10:00:05 GMT"
+        "title": "Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’",
+        "link": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1",
+        "date": "Mon, 09 Nov 2026 16:35:18 GMT"
       },
       {
-        "title": "The great British sell-off",
-        "link": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 05:00:08 GMT"
-      },
-      {
-        "title": "Tech’s ‘vertical’ obsession doesn’t stack up",
-        "link": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 05:00:25 GMT"
-      },
-      {
-        "title": "How BP and Shell fell out of love with the forecourt",
-        "link": "https://www.ft.com/content/a4340e1e-a849-4e42-938e-dec328fa13d0?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 05:00:07 GMT"
-      },
-      {
-        "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
-        "link": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1",
-        "date": "Mon, 09 Nov 2026 02:54:00 GMT"
-      },
-      {
-        "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
-        "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
-        "date": "Sun, 08 Nov 2026 18:10:24 GMT"
+        "title": "US regulator orders makers of weight-loss drugs to carry blindness risk warning",
+        "link": "https://www.ft.com/content/39cfce50-3023-4898-9f16-be0165b54cbc?syn-25a6b1a6=1",
+        "date": "Mon, 09 Nov 2026 17:20:45 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+        "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+        "date": "Mon, 09 Nov 2026 14:30:56 +0000"
+      },
+      {
         "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
         "link": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
         "date": "Mon, 09 Nov 2026 12:00:00 +0000"
@@ -335,137 +340,132 @@
         "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
         "link": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
         "date": "Mon, 09 Nov 2026 10:30:00 +0000"
-      },
-      {
-        "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
-        "link": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
-        "date": "Mon, 09 Nov 2026 10:00:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Instagram’s AI age detection is expanding globally",
-        "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-        "date": "2026-11-09 12:00:00"
+        "title": "James Gunn is out as DC movie leader",
+        "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+        "date": "2026-11-09 17:39:57"
       },
       {
-        "title": "Torrent underground",
-        "link": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-        "date": "2026-11-09 11:00:05"
+        "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+        "date": "2026-11-09 17:36:08"
       },
       {
-        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-        "date": "2026-11-08 22:54:50"
+        "title": "Uber wants to park your car now, too",
+        "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+        "date": "2026-11-09 17:00:00"
       },
       {
-        "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-        "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-        "date": "2026-11-08 22:37:22"
+        "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+        "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+        "date": "2026-11-09 16:23:31"
       },
       {
-        "title": "Epic Games Launcher is coming to SteamOS",
-        "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-        "date": "2026-11-08 20:52:05"
+        "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+        "date": "2026-11-09 15:50:38"
       },
       {
-        "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-        "date": "2026-11-08 20:22:39"
+        "title": "Disney and Adobe are building generative AI tools together",
+        "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "date": "2026-11-09 15:38:56"
       },
       {
-        "title": "Apple is racing to make Siri more agentic",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-        "date": "2026-11-08 19:18:19"
+        "title": "Hold up — I had a great time talking to the RIAA guy",
+        "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+        "date": "2026-11-09 15:30:00"
       },
       {
-        "title": "Elvis and Eminem rights holders are suing Suno",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-        "date": "2026-11-08 17:23:19"
+        "title": "Medium is launching a new note-taking app called TK",
+        "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
+        "date": "2026-11-09 15:04:45"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Tesla expands robotaxi service to San Antonio",
-        "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-        "date": "Mon, 09 Nov 2026 11:30:24 +0000"
+        "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+        "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+        "date": "Mon, 09 Nov 2026 17:00:00 +0000"
       },
       {
-        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-        "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-        "date": "Mon, 09 Nov 2026 05:26:29 +0000"
+        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+        "date": "Mon, 09 Nov 2026 16:56:54 +0000"
       },
       {
-        "title": "Apps to distract you from the endless cycle of doomscrolling",
-        "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-        "date": "Sun, 08 Nov 2026 22:00:00 +0000"
+        "title": "Medium&#8217;s new TK app brings AI assistance directly into the writing process",
+        "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+        "date": "Mon, 09 Nov 2026 16:12:28 +0000"
       },
       {
-        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-        "date": "Sun, 08 Nov 2026 21:00:11 +0000"
+        "title": "Meta expands Instagram&#8217;s AI age-guessing tech globally",
+        "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+        "date": "Mon, 09 Nov 2026 15:32:27 +0000"
       },
       {
-        "title": "If Snap&#8217;s Specs are still ridiculously expensive, they&#8217;re also a lot more comfortable than they used to be",
-        "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-        "date": "Sun, 08 Nov 2026 21:00:00 +0000"
+        "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+        "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+        "date": "Mon, 09 Nov 2026 15:24:59 +0000"
       },
       {
-        "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-        "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-        "date": "Sun, 08 Nov 2026 20:30:00 +0000"
+        "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+        "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+        "date": "Mon, 09 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-        "date": "Sun, 08 Nov 2026 19:51:30 +0000"
+        "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+        "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+        "date": "Mon, 09 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-        "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-        "date": "Sun, 08 Nov 2026 18:00:04 +0000"
+        "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+        "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+        "date": "Mon, 09 Nov 2026 13:43:28 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Fold Epic Paper Airplanes",
-        "link": "https://www.foldableflight.com",
-        "date": "Mon, 09 Nov 2026 12:19:22 +0000"
-      },
-      {
-        "title": "Try Gleam",
-        "link": "https://nchagnet.eu/blog/you-should-try-gleam",
-        "date": "Mon, 09 Nov 2026 11:55:14 +0000"
-      },
-      {
-        "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-        "link": "https://zenodo.org/records/23682548",
-        "date": "Mon, 09 Nov 2026 11:30:27 +0000"
-      },
-      {
-        "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-        "link": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-        "date": "Mon, 09 Nov 2026 10:11:47 +0000"
-      },
-      {
-        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-        "link": "https://news.ycombinator.com/item?id=50422628",
-        "date": "Mon, 09 Nov 2026 08:17:49 +0000"
-      },
-      {
         "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
         "link": "https://arxiv.org/abs/2610.14162",
-        "date": "Mon, 09 Nov 2026 07:20:37 +0000"
+        "date": "2026-11-09 07:20:37"
       },
       {
         "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
         "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-        "date": "Mon, 09 Nov 2026 07:04:25 +0000"
+        "date": "2026-11-09 07:04:25"
       },
       {
         "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
         "link": "https://github.com/OmniJev/Flide",
-        "date": "Mon, 09 Nov 2026 04:43:12 +0000"
+        "date": "2026-11-09 04:43:12"
+      },
+      {
+        "title": "A Critique of GPUI",
+        "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+        "date": "2026-11-09 03:51:10"
+      },
+      {
+        "title": "The Qlobe: Rotating Quine (2010)",
+        "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+        "date": "2026-11-09 03:15:17"
+      },
+      {
+        "title": "RIP, Harvest",
+        "link": "https://aphyr.com/posts/427-rip-harvest",
+        "date": "2026-11-09 01:58:21"
+      },
+      {
+        "title": "Unlocking any car from X brand in most of the world",
+        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "date": "2026-11-09 00:10:50"
+      },
+      {
+        "title": "I'm not convinced the AI bubble exists",
+        "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "date": "2026-11-08 23:44:36"
       }
     ],
     "Reddit": [
@@ -480,14 +480,24 @@
         "date": "2026-11-08T19:35:14+00:00"
       },
       {
-        "title": "President Volodymyr Zelensky has announced that Russian forces used North Korean KN-23 ballistic missiles in an overnight strike on a key Ukrainian energy facility, with air defenses able to intercept only four of 36 ballistic missiles due to an acute shortage of Patriot interceptors",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xrd9vc/president_volodymyr_zelensky_has_announced_that/",
-        "date": "2026-11-09T00:12:23+00:00"
-      },
-      {
         "title": "Ukraine Strikes Russia’s Second-Largest Oil Refinery as 113 Drones Hit Leningrad Region",
         "link": "https://www.reddit.com/r/worldnews/comments/1xrmi6a/ukraine_strikes_russias_secondlargest_oil/",
         "date": "2026-11-09T08:36:17+00:00"
+      },
+      {
+        "title": "Ukraine strikes St. Petersburg plant producing missile fuel, General Staff says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xrs6c4/ukraine_strikes_st_petersburg_plant_producing/",
+        "date": "2026-11-09T13:51:49+00:00"
+      },
+      {
+        "title": "Ukraine Drone Forces Shift to Starlink Alternative for Comms to Hit Russia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xrvewl/ukraine_drone_forces_shift_to_starlink/",
+        "date": "2026-11-09T15:58:52+00:00"
+      },
+      {
+        "title": "France accuses Iran of supermarket fridge cyberattack",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xrw43z/france_accuses_iran_of_supermarket_fridge/",
+        "date": "2026-11-09T16:24:28+00:00"
       },
       {
         "title": "Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes",
@@ -495,23 +505,33 @@
         "date": "2026-11-09T07:12:54+00:00"
       },
       {
-        "title": "‘They had him crucified’: Christian convert faces torture, execution in Egypt for leaving Islam",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xroow5/they_had_him_crucified_christian_convert_faces/",
-        "date": "2026-11-09T10:53:28+00:00"
-      },
-      {
-        "title": "Krakow square attacker dies in hospital. The gunman died in the early hours of Monday, officials said",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xrm9yl/krakow_square_attacker_dies_in_hospital_the/",
-        "date": "2026-11-09T08:21:11+00:00"
-      },
-      {
-        "title": "Putin may not want peace, warns Norwegian leader who spoke to him",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xrib27/putin_may_not_want_peace_warns_norwegian_leader/",
-        "date": "2026-11-09T04:27:51+00:00"
+        "title": "Chinese whispers in Dhaka: 1000s of vloggers film suburb, claim they’re in ‘dirty’ India. No one knows why",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xrvfg0/chinese_whispers_in_dhaka_1000s_of_vloggers_film/",
+        "date": "2026-11-09T15:59:25+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Uber Parking Lets You Book a Spot Directly in the App. Here’s How",
+        "link": "https://www.cnet.com/roadshow/rideshare/uber-parking-launch/",
+        "date": "2026-11-09 17:00:00"
+      },
+      {
+        "title": "What’s That on Your Wrist? We Want to Know Which Wearables You Love the Most",
+        "link": "https://www.cnet.com/tech/peoples-picks-survey-2026/",
+        "date": "2026-11-02 17:30:00"
+      },
+      {
+        "title": "Google’s AI Mode Will Soon Show Ads Even in Your Follow-Up Questions",
+        "link": "https://www.cnet.com/tech/services-and-software/google-expands-advertising-ai-mode-overviews/",
+        "date": "2026-10-30 00:43:22"
+      },
+      {
+        "title": "Which Foldable Phone Has the Best Battery Life? We Put Them to the Test",
+        "link": "https://www.cnet.com/tech/mobile/foldable-phone-best-battery-life/",
+        "date": "2026-11-09 13:00:00"
+      },
       {
         "title": "How Smart Glasses Detector Apps Work, and How Much You Can Trust Them",
         "link": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
@@ -531,26 +551,6 @@
         "title": "Roku Retires Fish Tank Screensaver to Reel Viewers Into Roku City",
         "link": "https://www.cnet.com/tech/home-entertainment/roku-retires-aquatic-life-screensaver-2/",
         "date": "2026-11-04 00:05:51"
-      },
-      {
-        "title": "iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple’s and Samsung’s Foldables",
-        "link": "https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-camera-comparison/",
-        "date": "2026-11-07 13:00:00"
-      },
-      {
-        "title": "Apple Says There Are Now 100,000 Apps Built for the iPhone Duo",
-        "link": "https://www.cnet.com/tech/mobile/apple-iphone-duo-100000-apps-available/",
-        "date": "2026-11-06 23:15:09"
-      },
-      {
-        "title": "Good Riddance: Tesla to End Cybertruck Production in 2027",
-        "link": "https://www.cnet.com/home/electric-vehicles/tesla-ends-cybertruck-production-2027/",
-        "date": "2026-11-06 21:25:43"
-      },
-      {
-        "title": "Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged",
-        "link": "https://www.cnet.com/tech/vibe-coding-pdoom-tech-terms-guide/",
-        "date": "2026-11-06 20:12:22"
       }
     ],
     "AP": [],
