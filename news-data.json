@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-21T12:15:39.974Z",
+  "updated": "2026-11-21T15:48:34.076Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "北京电影学院成立马克思主义学院",
+        "link": "https://www.zaobao.com.sg/news/china/story20261121-10036718",
+        "date": "Sat, 21 Nov 2026 13:26:00 GMT"
+      },
+      {
+        "title": "华为余承东称“开车可以睡觉”惹议 后改口称务必专心",
+        "link": "https://www.zaobao.com.sg/news/china/story20261121-10036612",
+        "date": "Sat, 21 Nov 2026 12:15:00 GMT"
+      },
       {
         "title": "中国发改委敦促加快政府投资项目建设",
         "link": "https://www.zaobao.com.sg/news/china/story20261121-10036265",
@@ -33,16 +43,6 @@
         "title": "台股本周大跌超17% 金管会宣布禁止平盘以下放空",
         "link": "https://www.zaobao.com.sg/news/china/story20261121-10035940",
         "date": "Sat, 21 Nov 2026 08:42:58 GMT"
-      },
-      {
-        "title": "文远知行全球Robotaxi第三季营收首次突破1亿人民币",
-        "link": "https://www.zaobao.com.sg/news/china/story20261121-10035771",
-        "date": "Sat, 21 Nov 2026 08:14:38 GMT"
-      },
-      {
-        "title": "中国5G互联网覆盖全部41个工业大类",
-        "link": "https://www.zaobao.com.sg/news/china/story20261121-10035566",
-        "date": "Sat, 21 Nov 2026 07:35:25 GMT"
       }
     ],
     "Reuters": [],
@@ -50,12 +50,17 @@
       {
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
         "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 21 Nov 2026 11:53:38 GMT"
+        "date": "Sat, 21 Nov 2026 13:17:38 GMT"
       },
       {
-        "title": "Catherine talks openly about how cancer changed her in new BBC documentary",
+        "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
         "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 21 Nov 2026 12:00:03 GMT"
+      },
+      {
+        "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+        "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 21 Nov 2026 12:17:45 GMT"
       },
       {
         "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
@@ -65,12 +70,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 21 Nov 2026 09:52:11 GMT"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 21 Nov 2026 04:34:00 GMT"
+        "date": "Sat, 21 Nov 2026 14:54:24 GMT"
       },
       {
         "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
@@ -78,14 +78,14 @@
         "date": "Sat, 21 Nov 2026 00:03:16 GMT"
       },
       {
-        "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
-        "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 21 Nov 2026 00:08:19 GMT"
-      },
-      {
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 21 Nov 2026 00:06:11 GMT"
+      },
+      {
+        "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+        "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 20 Nov 2026 23:20:33 GMT"
       }
     ],
     "The New York Times": [
@@ -112,7 +112,7 @@
       {
         "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
         "link": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
-        "date": "Sat, 21 Nov 2026 03:41:06 +0000"
+        "date": "Sat, 21 Nov 2026 15:37:45 +0000"
       },
       {
         "title": "Powerful Health Panel Has Tumultuous First Meeting With RFK Jr’s Appointees",
@@ -122,12 +122,12 @@
       {
         "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
         "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-        "date": "Sat, 21 Nov 2026 11:20:34 +0000"
+        "date": "Sat, 21 Nov 2026 14:30:52 +0000"
       },
       {
         "title": "Hakeem Jeffries Thinks He’s the Man for This Moment",
         "link": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
-        "date": "Sat, 21 Nov 2026 10:15:07 +0000"
+        "date": "Sat, 21 Nov 2026 13:54:12 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Mexico captures FBI-wanted cartel boss in military raid",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 11:53:56 +0000"
+        "title": "Diallo present as Africa football boss Motsepe reiterates Infantino support",
+        "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 15:20:43 +0000"
       },
       {
-        "title": "Why is GTA VI so expensive to play?",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 11:39:03 +0000"
+        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+        "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 15:01:18 +0000"
       },
       {
-        "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-        "link": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 11:35:42 +0000"
+        "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+        "link": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 14:35:52 +0000"
       },
       {
-        "title": "Migrants caravan in Mexico walks towards US border",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 11:04:10 +0000"
+        "title": "Newcastle United vs Arsenal LIVE: Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 14:30:00 +0000"
       },
       {
-        "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-        "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 11:02:49 +0000"
+        "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+        "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 14:15:36 +0000"
       },
       {
-        "title": "Deadly fire engulfs power station in southern Iraq",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 11:02:29 +0000"
+        "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 14:06:06 +0000"
       },
       {
-        "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-        "link": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 10:54:22 +0000"
+        "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+        "link": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 13:08:59 +0000"
       },
       {
-        "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-        "link": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-        "date": "Sat, 21 Nov 2026 10:38:13 +0000"
+        "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+        "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+        "date": "Sat, 21 Nov 2026 12:49:20 +0000"
       }
     ],
     "Financial Times": [
@@ -251,9 +251,9 @@
         "date": "Sat, 21 Nov 2026 05:00:35 GMT"
       },
       {
-        "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
-        "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-        "date": "Sat, 21 Nov 2026 12:00:08 GMT"
+        "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
+        "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
+        "date": "Sat, 21 Nov 2026 05:00:26 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "The Outages Are Just Getting Started",
+        "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+        "date": "Sat, 21 Nov 2026 13:00:00 +0000"
+      },
+      {
         "title": "Best Power Banks (2026): My Picks After Testing Over 100",
         "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
         "date": "Sat, 21 Nov 2026 12:01:00 +0000"
@@ -335,14 +340,34 @@
         "title": "The Manosphere Isn’t Ready for Brothercore",
         "link": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
         "date": "Sat, 21 Nov 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Therabody Promo Codes: 15% Off November 2026",
-        "link": "https://www.wired.com/story/therabody-promo-code/",
-        "date": "Sat, 21 Nov 2026 06:00:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Can Anthropic afford to put safety first?",
+        "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+        "date": "2026-11-21 15:00:00"
+      },
+      {
+        "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+        "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+        "date": "2026-11-21 14:55:28"
+      },
+      {
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+        "date": "2026-11-21 14:00:00"
+      },
+      {
+        "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+        "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+        "date": "2026-11-21 13:00:00"
+      },
+      {
+        "title": "The game of the year is finally here",
+        "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+        "date": "2026-11-21 13:00:00"
+      },
       {
         "title": "Harbinger is building the unsexy EVs that keep the economy moving",
         "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
@@ -357,34 +382,14 @@
         "title": "Rockstar says GTA VI made $3.79 billion in its first day",
         "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
         "date": "2026-11-20 19:35:06"
-      },
-      {
-        "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-        "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-        "date": "2026-11-20 19:15:00"
-      },
-      {
-        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-        "date": "2026-11-20 18:50:19"
-      },
-      {
-        "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-        "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-        "date": "2026-11-20 18:15:00"
-      },
-      {
-        "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-        "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-        "date": "2026-11-20 18:00:00"
-      },
-      {
-        "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-        "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-        "date": "2026-11-20 17:33:59"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Alaska, your next governor is a Wikipedia nerd",
+        "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+        "date": "Sat, 21 Nov 2026 15:18:29 +0000"
+      },
       {
         "title": "Startup sues Apple in India over tap-to-share contacts feature",
         "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
@@ -419,14 +424,29 @@
         "title": "Bending Spoons buys Mailchimp for $3.68B",
         "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
         "date": "Fri, 20 Nov 2026 16:16:06 +0000"
-      },
-      {
-        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-        "date": "Fri, 20 Nov 2026 15:46:07 +0000"
       }
     ],
     "Hacker News": [
+      {
+        "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "date": "Sat, 21 Nov 2026 14:36:45 +0000"
+      },
+      {
+        "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+        "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "date": "Sat, 21 Nov 2026 13:23:14 +0000"
+      },
+      {
+        "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+        "link": "https://simple-bench.com/",
+        "date": "Sat, 21 Nov 2026 13:16:12 +0000"
+      },
+      {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "date": "Sat, 21 Nov 2026 10:36:32 +0000"
+      },
       {
         "title": "FBI reportedly investigating apparent hack of its criminal database",
         "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
@@ -438,11 +458,6 @@
         "date": "Sat, 21 Nov 2026 08:32:58 +0000"
       },
       {
-        "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
-        "link": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
-        "date": "Sat, 21 Nov 2026 08:32:34 +0000"
-      },
-      {
         "title": "Surprisingly Adorable Insect Portraits",
         "link": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
         "date": "Sat, 21 Nov 2026 06:44:14 +0000"
@@ -451,21 +466,6 @@
         "title": "ClawDOS – An AI coding agent for DOS",
         "link": "http://ricapar.net/ClawDOS/",
         "date": "Sat, 21 Nov 2026 05:38:01 +0000"
-      },
-      {
-        "title": "Clojure will affect the way you think about programming (2017)",
-        "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-        "date": "Sat, 21 Nov 2026 02:40:39 +0000"
-      },
-      {
-        "title": "Serious cyberattack thought backed by wealthy operators",
-        "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-        "date": "Fri, 20 Nov 2026 23:29:30 +0000"
-      },
-      {
-        "title": "Sir Brian May adds new dimension to Hera asteroid",
-        "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-        "date": "Fri, 20 Nov 2026 23:19:44 +0000"
       }
     ],
     "Reddit": [
